@@ -94,6 +94,15 @@ I am driven by curiosity, long-term vision, and the goal of creating technology 
 - MERN Stack Practice Projects (Full Stack Learning)
 
 ---
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+---
 
 ## 🎯 Currently Learning
 - Advanced Machine Learning concepts
