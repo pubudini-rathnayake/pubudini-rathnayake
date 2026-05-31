@@ -102,4 +102,4 @@ I am passionate about:
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/pubudini-rathnayake-388b062b7
-- Email: your-pubudinithamalai@gmail.com
+- Email: pubudinithamali@gmail.com
