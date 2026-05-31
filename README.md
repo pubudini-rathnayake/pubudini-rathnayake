@@ -1,121 +1,105 @@
 # Hi 👋 I'm Pubudini
 
-🎓 Undergraduate ICT student specializing in Artificial Intelligence  
-🤖 Passionate about intelligent systems, NLP, and human-centered AI  
-💡 Focused on building impactful digital products and scalable applications  
+🎓 Undergraduate ICT Student specializing in Artificial Intelligence  
+🤖 AI / NLP Enthusiast | Full Stack Developer  
+💡 Building intelligent, human-centered digital systems  
 
 ---
 
 ## 🧠 About Me
 I am an ICT undergraduate specializing in Artificial Intelligence with a strong interest in intelligent systems, innovation, and human-centered technology.
 
-I am passionate about continuous learning, problem-solving, and building meaningful digital experiences that positively impact people’s lives.
+I focus on building meaningful digital experiences that combine software engineering with AI-driven thinking.
 
-My interests span across:
+I am passionate about:
 - Artificial Intelligence & Machine Learning
 - Natural Language Processing (NLP)
-- Full Stack Web & Mobile Development
-- Product-oriented software engineering
-
-I am driven by curiosity, long-term vision, and the goal of creating technology that is not only functional but also meaningful and impactful.
+- Full Stack Development
+- Scalable and practical software systems
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 - Java
 - Python
 - JavaScript
 - TypeScript
 - C
 
----
-
-### 🌐 Web & Full Stack Development
+### Full Stack Development
 - React.js
 - Node.js
 - Express.js
 - MongoDB (NoSQL)
 - MERN Stack
-- HTML
-- CSS
-- Tailwind CSS
-- JSON
-- REST API Development
+- HTML, CSS, Tailwind CSS
+- REST APIs
 
----
-
-### 📱 Mobile Development
+### Mobile Development
 - React Native
 - Android Studio
 
----
-
-### 🧠 AI / Data / Backend
+### AI / Data / Backend
 - Machine Learning (Intro)
 - Artificial Intelligence (Intro)
 - Flask
 
----
-
-### 🗄️ Databases
+### Databases
 - MySQL
 - Microsoft SQL Server
 - MongoDB
 
----
-
-### 🎨 UI / Design
-- Figma (UI/UX Design)
-
----
-
-### ☁️ Tools & Platforms
+### Tools
 - Git & GitHub
+- Figma
 - Netlify
-- Software Development Lifecycle (SDLC concepts)
 
 ---
 
-## 🌍 Languages
-- English (IELTS Academic – Band 7.0)
-- Japanese (JLPT N5, JLPT N4)
-- Japanese Culture (studied at Mainichi Japanese Language School)
+## 🚀 Featured Projects
+
+### 🏫 Driving School & Scheduling System
+- University group project
+- Role: User Management Module
+- Tech: Spring Boot, JSP
+- Focus: Authentication + scheduling logic
 
 ---
 
-## 🚀 Projects
-- Driving School & Scheduling System (University Project)  
-  *Role: User Management Module (Spring Boot + JSP)*
-
-- Student Reflection System (Spring Boot REST API)
-
-- MERN Stack Practice Projects (Full Stack Learning)
+### 📊 Student Reflection System
+- REST API development project
+- Tech: Spring Boot
+- Focus: Backend design & API structure
 
 ---
+
+### 🌐 MERN Stack Practice Projects
+- Full stack development practice
+- Tech: MongoDB, Express, React, Node.js
+- Focus: CRUD applications & UI integration
+
+---
+
 ## 📊 GitHub Analytics
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pubudini-rathnayake&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pubudini-rathnayake&show_icons=true&theme=tokyonight&hide_border=true)
 
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pubudini-rathnayake&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pubudini-rathnayake&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pubudini-rathnayake&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🎯 Currently Learning
-- Advanced Machine Learning concepts
+## 🎯 Current Focus
+- Advanced Machine Learning
 - Natural Language Processing (NLP)
-- Software Engineering best practices
-- System design fundamentals
-- Scalable full-stack architecture
+- System Design Fundamentals
+- Scalable Full Stack Architectures
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 - LinkedIn: www.linkedin.com/in/pubudini-rathnayake-388b062b7
-- Email: pubudinithamali@gmail.com
+- Email: your-pubudinithamalai@gmail.com
