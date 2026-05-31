@@ -1,5 +1,3 @@
-<img width="100%" src="YOUR_BANNER_IMAGE_LINK">
-
 # Hi, I'm Pubudini 👋
 
 ### AI Engineer in Progress 🤖
@@ -12,7 +10,7 @@
 
 📍 Sri Lanka
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&width=800&lines=Artificial+Intelligence+Student;Aspiring+NLP+Engineer;Full+Stack+Developer;Building+Impactful+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&width=800&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Building+Impactful+Technology)](https://git.io/typing-svg)
 
 ---
 
@@ -89,10 +87,6 @@ Highlights:
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pubudini-rathnayake&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pubudini-rathnayake&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=pubudini-rathnayake&theme=tokyonight&hide_border=true)
 
 ---
@@ -106,9 +100,9 @@ Highlights:
 ---
 
 ## 📫 Let's Connect
-💼 LinkedIn: www.linkedin.com/in/pubudini-rathnayake-388b062b7
-📧 Email: pubudinithamali@gmail.com
-🌐 GitHub: https://github.com/pubudini-rathnayake
+-💼 LinkedIn: www.linkedin.com/in/pubudini-rathnayake-388b062b7
+-📧 Email: pubudinithamali@gmail.com
+-🌐 GitHub: https://github.com/pubudini-rathnayake
 
 
 
