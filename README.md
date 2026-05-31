@@ -106,4 +106,4 @@ I am driven by curiosity, long-term vision, and the goal of creating technology 
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/pubudini-rathnayake-388b062b7
-- Email: your-email@gmail.com
+- Email: pubudinithamali@gmail.com
