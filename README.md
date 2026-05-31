@@ -1,14 +1,10 @@
 # Hi, I'm Pubudini 👋
 
-### AI Engineer in Progress 🤖
-
 🎓 ICT Undergraduate specializing in Artificial Intelligence
 
 🌱 Currently exploring Machine Learning, NLP, and Full-Stack Development
 
 💡 Passionate about building intelligent systems that create meaningful impact
-
-📍 Sri Lanka
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&width=800&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Building+Impactful+Technology)](https://git.io/typing-svg)
 
