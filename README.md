@@ -81,8 +81,6 @@ Highlights:
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=pubudini-rathnayake&theme=tokyonight&hide_border=true)
 
 ---
@@ -96,9 +94,9 @@ Highlights:
 ---
 
 ## 📫 Let's Connect
--💼 LinkedIn: www.linkedin.com/in/pubudini-rathnayake-388b062b7
--📧 Email: pubudinithamali@gmail.com
--🌐 GitHub: https://github.com/pubudini-rathnayake
+- 💼 LinkedIn: www.linkedin.com/in/pubudini-rathnayake-388b062b7
+- 📧 Email: pubudinithamali@gmail.com
+- 🌐 GitHub: https://github.com/pubudini-rathnayake
 
 
 
