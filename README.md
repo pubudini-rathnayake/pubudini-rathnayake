@@ -1,32 +1,109 @@
 # Hi 👋 I'm Pubudini
 
-🎓 Undergraduate ICT Student 
-💻 Passionate about Java, Spring Boot, and Software Development  
-🌱 Currently learning Full Stack Development  
-🚀 Goal: Become an NLP / AI Engineer  
+🎓 Undergraduate ICT student specializing in Artificial Intelligence  
+🤖 Passionate about intelligent systems, NLP, and human-centered AI  
+💡 Focused on building impactful digital products and scalable applications  
 
 ---
 
-## 🛠️ Skills
+## 🧠 About Me
+I am an ICT undergraduate specializing in Artificial Intelligence with a strong interest in intelligent systems, innovation, and human-centered technology.
+
+I am passionate about continuous learning, problem-solving, and building meaningful digital experiences that positively impact people’s lives.
+
+My interests span across:
+- Artificial Intelligence & Machine Learning
+- Natural Language Processing (NLP)
+- Full Stack Web & Mobile Development
+- Product-oriented software engineering
+
+I am driven by curiosity, long-term vision, and the goal of creating technology that is not only functional but also meaningful and impactful.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
 - Java
-- Spring Boot
-- HTML / CSS
-- MySQL (learning)
-- Git & GitHub
+- Python
+- JavaScript
+- TypeScript
+- C
 
 ---
 
-## 📌 Projects
-- Driving School Management System (University Project)
+### 🌐 Web & Full Stack Development
+- React.js
+- Node.js
+- Express.js
+- MongoDB (NoSQL)
+- MERN Stack
+- HTML
+- CSS
+- Tailwind CSS
+- JSON
+- REST API Development
+
+---
+
+### 📱 Mobile Development
+- React Native
+- Android Studio
+
+---
+
+### 🧠 AI / Data / Backend
+- Machine Learning (Intro)
+- Artificial Intelligence (Intro)
+- Flask
+
+---
+
+### 🗄️ Databases
+- MySQL
+- Microsoft SQL Server
+- MongoDB
+
+---
+
+### 🎨 UI / Design
+- Figma (UI/UX Design)
+
+---
+
+### ☁️ Tools & Platforms
+- Git & GitHub
+- Netlify
+- Software Development Lifecycle (SDLC concepts)
+
+---
+
+## 🌍 Languages
+- English (IELTS Academic – Band 7.0)
+- Japanese (JLPT N5, JLPT N4)
+- Japanese Culture (studied at Mainichi Japanese Language School)
+
+---
+
+## 🚀 Projects
+- Driving School & Scheduling System (University Project)  
+  *Role: User Management Module (Spring Boot + JSP)*
+
 - Student Reflection System (Spring Boot REST API)
 
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+- MERN Stack Practice Projects (Full Stack Learning)
 
 ---
 
-## 📫 Contact
-- Email: your-email@gmail.com
+## 🎯 Currently Learning
+- Advanced Machine Learning concepts
+- Natural Language Processing (NLP)
+- Software Engineering best practices
+- System design fundamentals
+- Scalable full-stack architecture
+
+---
+
+## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/your-profile
+- Email: your-email@gmail.com
