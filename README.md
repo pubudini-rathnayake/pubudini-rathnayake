@@ -83,10 +83,6 @@ Highlights:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pubudini-rathnayake&theme=tokyonight&hide_border=true)
 
-## 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/pubudini-rathnayake/pubudini-rathnayake/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🎯 Current Focus
