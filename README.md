@@ -83,6 +83,10 @@ Highlights:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pubudini-rathnayake&theme=tokyonight&hide_border=true)
 
+## 🐍 Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/pubudini-rathnayake/pubudini-rathnayake/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🎯 Current Focus
@@ -94,7 +98,7 @@ Highlights:
 ---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: www.linkedin.com/in/pubudini-rathnayake-388b062b7
+- 💼 LinkedIn: https://www.linkedin.com/in/pubudini-rathnayake-388b062b7
 - 📧 Email: pubudinithamali@gmail.com
 - 🌐 GitHub: https://github.com/pubudini-rathnayake
 
