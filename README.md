@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
+
 # Hi, I'm Pubudini 👋
 
 🎓 ICT Undergraduate specializing in Artificial Intelligence
