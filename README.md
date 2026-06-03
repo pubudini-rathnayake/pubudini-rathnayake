@@ -79,12 +79,6 @@ Highlights:
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pubudini-rathnayake&theme=tokyonight&hide_border=true)
-
----
-
 ## 🎯 Current Focus
 - Advanced Machine Learning
 - Natural Language Processing (NLP)
