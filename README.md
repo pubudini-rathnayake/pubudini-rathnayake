@@ -30,10 +30,13 @@ Currently focused on:
 
 ### Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6719?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -75,6 +78,43 @@ Currently focused on:
 **Repositories:**
 [![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pubudini-rathnayake/student-reflection-ai-backend)
 [![Frontend](https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pubudini-rathnayake/student-reflection-ai-frontend)
+
+---
+
+### 🔬 NLP Research Assistant — AI-Powered SaaS Research Platform
+
+> A full-stack SaaS platform using Retrieval-Augmented Generation (RAG) to upload, search, summarize, compare NLP research papers, and track research trends.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6719?style=for-the-badge&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Built as a complete SaaS product with Free, Pro, and Team plans:**
+
+| Version | Features |
+|---|---|
+| ✅ Version 1 | JWT auth, PDF upload, RAG pipeline, ChromaDB, Q&A, summarization, SaaS plans |
+| 📋 Version 2 | Advanced search filters, paper tagging, export reports |
+| 📋 Version 3 | Team workspace, shared paper library, admin dashboard |
+| 📋 Version 4 | Trend visualization with charts, citation network graph |
+
+**Highlights:**
+- 🔐 JWT authentication with Free / Pro / Team SaaS plan enforcement
+- 📄 PDF upload with PyMuPDF text extraction and automatic chunking
+- 🧠 LangChain RAG pipeline with ChromaDB vector database
+- 🔍 Ask questions and get AI answers with exact paper citations
+- ⚖️ Compare multiple research papers with AI-generated comparison reports
+- 📈 Research trend analysis across uploaded paper library
+- 💼 Full SaaS usage tracking — paper limits, daily question limits
+- 🤖 Google Gemini 2.5 Flash Lite for AI responses
+- 📊 Google Gemini Embedding 001 for semantic vector search
+
+**Repository:**
+[![Repo](https://img.shields.io/badge/NLP_Research_Assistant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pubudini-rathnayake/nlp-research-assistant)
 
 ---
 
