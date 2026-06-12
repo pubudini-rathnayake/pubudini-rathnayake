@@ -1,6 +1,7 @@
 # Hi, I'm Pubudini 👋
-🎓 ICT Undergraduate specializing in Artificial Intelligence
-🌱 Currently exploring Machine Learning, NLP, and Full-Stack Development
+
+🎓 ICT Undergraduate specializing in Artificial Intelligence<br>
+🌱 Currently exploring Machine Learning, NLP, and Full-Stack Development<br>
 💡 Passionate about building intelligent systems that create meaningful impact
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&width=800&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Building+Impactful+Technology)](https://git.io/typing-svg)
@@ -56,9 +57,9 @@ Currently focused on:
 ### AI & ML
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=4285F4" height="40"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6719?style=flat-square&logoColor=white" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/120px-Google_Gemini_logo.svg.png" height="40" alt="Google Gemini"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" alt="LangChain"/>
+  <img src="https://avatars.githubusercontent.com/u/107429651?s=200&v=4" height="40" alt="ChromaDB"/>
 </p>
 
 ### Tools & Platforms
@@ -66,18 +67,13 @@ Currently focused on:
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>
   <img src="https://skillicons.dev/icons?i=azure" height="40"/>
-  <img src="https://skillicons.dev/icons?i=intellij" height="40"/>
+  <img src="https://skillicons.dev/icons?i=idea" height="40"/>
   <img src="https://skillicons.dev/icons?i=pycharm" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
   <img src="https://skillicons.dev/icons?i=figma" height="40"/>
   <img src="https://skillicons.dev/icons?i=netlify" height="40"/>
 </p>
-
-### Languages & Certifications
-![English](https://img.shields.io/badge/English-IELTS_Band_7.0-blue?style=for-the-badge)
-![Japanese](https://img.shields.io/badge/Japanese-JLPT_N4-red?style=for-the-badge)
-![Sinhala](https://img.shields.io/badge/Sinhala-Native-orange?style=for-the-badge)
 
 ---
 
