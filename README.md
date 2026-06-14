@@ -11,7 +11,6 @@
 ## 🧠 About Me
 
 I am an undergraduate ICT student specializing in Artificial Intelligence with a strong interest in intelligent systems, innovation, and human-centered technology.
-My goal is to combine software engineering and AI to build solutions that are practical, meaningful, and impactful.
 
 Currently focused on:
 - 🤖 Artificial Intelligence
