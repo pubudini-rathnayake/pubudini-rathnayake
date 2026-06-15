@@ -49,9 +49,9 @@ Currently focused on:
 ### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sqlserver" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
 </p>
 
 ### AI & ML
