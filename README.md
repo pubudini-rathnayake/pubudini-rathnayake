@@ -51,7 +51,7 @@ Currently focused on:
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgresql" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mssql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sqlserver" height="40"/>
 </p>
 
 ### AI & ML
