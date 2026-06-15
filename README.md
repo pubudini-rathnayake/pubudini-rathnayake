@@ -50,6 +50,7 @@ Currently focused on:
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mssql" height="40"/>
 </p>
 
