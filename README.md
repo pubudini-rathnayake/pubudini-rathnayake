@@ -73,6 +73,7 @@ Currently focused on:
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
   <img src="https://skillicons.dev/icons?i=figma" height="40"/>
   <img src="https://skillicons.dev/icons?i=netlify" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
 </p>
 
 ---
