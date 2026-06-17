@@ -80,7 +80,7 @@ Currently focused on:
 ---
 
 ## 🎯 Current Focus
-- Advanced Machine Learning
+- Machine Learning
 - Natural Language Processing (NLP)
 - System Design Fundamentals
 - Scalable Full Stack Architectures
