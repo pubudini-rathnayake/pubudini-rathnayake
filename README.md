@@ -17,7 +17,6 @@ Currently focused on:
 - 🧠 Natural Language Processing
 - 🌐 Full Stack Development
 - 📱 Mobile Application Development
-- 🚀 Product-Oriented Thinking
 
 ---
 
