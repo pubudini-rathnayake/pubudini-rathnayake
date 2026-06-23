@@ -90,3 +90,4 @@ Currently focused on:
 - 💼 LinkedIn: https://www.linkedin.com/in/pubudini-rathnayake-388b062b7
 - 📧 Email: pubudinithamali@gmail.com
 - 🌐 GitHub: https://github.com/pubudini-rathnayake
+- 🔬 ResearchGate: https://www.researchgate.net/profile/Pubudini-Rathnayake?ev=hdr_xprf
