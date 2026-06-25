@@ -14,7 +14,7 @@ I am an undergraduate ICT student specializing in Artificial Intelligence with a
 
 Currently focused on:
 - 🤖 Artificial Intelligence
-- 🧠 Natural Language Processing (NLP)
+- 🧠 Natural Language Processing 
 - 🌐 Full Stack Development
 - 📱 Mobile Application Development
 
