@@ -4,7 +4,9 @@
 🌱 Currently exploring Machine Learning, NLP, and Full-Stack Development<br>
 💡 Passionate about building intelligent systems that create meaningful impact
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&width=800&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Building+Impactful+Technology)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student;Natural+Language+Processing+Enthusiast;Full+Stack+Developer;Building+Impactful+Technology" />
+</p>
 
 ---
 
@@ -13,16 +15,31 @@
 I am an undergraduate ICT student specializing in Artificial Intelligence with a strong interest in intelligent systems, innovation, and human-centered technology.
 
 Currently focused on:
-- 🤖 Artificial Intelligence
-- 🧠 Natural Language Processing 
-- 🌐 Full Stack Development
-- 📱 Mobile Application Development
+
+* 🤖 Artificial Intelligence
+* 🧠 Natural Language Processing
+* 🌐 Full Stack Development
+* 📱 Mobile Application Development
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pubudini-rathnayake&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pubudini-rathnayake&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubudini-rathnayake&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=java" height="40"/>
   <img src="https://skillicons.dev/icons?i=python" height="40"/>
@@ -34,6 +51,7 @@ Currently focused on:
 </p>
 
 ### Frameworks & Libraries
+
 <p>
   <img src="https://skillicons.dev/icons?i=spring" height="40"/>
   <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
@@ -46,6 +64,7 @@ Currently focused on:
 </p>
 
 ### Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
@@ -53,8 +72,8 @@ Currently focused on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
 </p>
 
+### AI & Machine Learning
 
-### AI & ML
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/120px-Google_Gemini_logo.svg.png" height="40" alt="Google Gemini"/>
@@ -63,6 +82,7 @@ Currently focused on:
 </p>
 
 ### Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>
@@ -79,15 +99,25 @@ Currently focused on:
 ---
 
 ## 🎯 Current Focus
-- Machine Learning
-- Natural Language Processing
-- System Design Fundamentals
-- Scalable Full Stack Architectures
+
+* 🤖 Machine Learning
+* 🧠 Natural Language Processing
+* 🏗️ Software Engineering & System Design
+* 🌐 Scalable Full Stack Development
+* ☁️ Cloud Computing Fundamentals
 
 ---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/pubudini-rathnayake-388b062b7
-- 📧 Email: pubudinithamali@gmail.com
-- 🌐 GitHub: https://github.com/pubudini-rathnayake
-- 🔬 ResearchGate: https://www.researchgate.net/profile/Pubudini-Rathnayake?ev=hdr_xprf
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/pubudini-rathnayake-388b062b7
+
+📧 **Email**
+[pubudinithamali@gmail.com](mailto:pubudinithamali@gmail.com)
+
+🌐 **GitHub**
+https://github.com/pubudini-rathnayake
+
+🔬 **ResearchGate**
+https://www.researchgate.net/profile/Pubudini-Rathnayake?ev=hdr_xprf
