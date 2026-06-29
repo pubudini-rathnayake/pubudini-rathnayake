@@ -27,16 +27,17 @@ Currently focused on:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats-five-dun-18.vercel.app/api?username=pubudini-rathnayake&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-five-dun-18.vercel.app/api?username=pubudini-rathnayake&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=pubudini-rathnayake&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=pubudini-rathnayake&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats-five-dun-18.vercel.app/api/top-langs/?username=pubudini-rathnayake&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-five-dun-18.vercel.app/api/top-langs/?username=pubudini-rathnayake&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
+
 
 
 ## 🛠️ Tech Stack
