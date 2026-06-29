@@ -34,7 +34,6 @@ Currently focused on:
 <p align="center">
   <img width="42%" src="https://github-readme-stats-five-dun-18.vercel.app/api/top-langs/?username=pubudini-rathnayake&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
-```
 
 
 ## 🛠️ Tech Stack
