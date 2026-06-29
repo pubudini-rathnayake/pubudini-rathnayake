@@ -23,7 +23,7 @@ Currently focused on:
 
 ---
 
-```markdown
+
 ## 📊 GitHub Statistics
 
 <p align="center">
