@@ -105,7 +105,7 @@ Currently focused on:
 ## 🎯 Current Focus
 
 * 🤖 Machine Learning
-* 🧠 Natural Language Processing (NLP)
+* 🧠 Natural Language Processing 
 * 🏗️ Software Engineering & System Design
 * 🌐 Scalable Full Stack Development
 * ☁️ Cloud Computing Fundamentals
